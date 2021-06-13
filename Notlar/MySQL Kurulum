@@ -1,0 +1,35 @@
+MySQL
+ 1) brew install mysql
+ 2) brew services start mysql
+ 3) mysql_secure_installation
+ 4) brew services stop mysql
+ 5) mysql.server start
+ 6) mysql -u root -p
+ 7) sifre girilmeli
+ 8) select 1;  ==>>alt alta 2 kare cikmali
+5) select 1 from dual;  ==>>alt alta 2 kare cikmali
+
+MVN KURULUM;
+1) java -version
+2) mvn -v
+3) mvn -version
+2)
+
+
+VS Code 
+1) cmd+shit+p on mac
+2) 
+
+
+UPDATE: npm install -S react-router-dom resolved the error.
+
+
+ // "dependencies": {
+  //   "@testing-library/jest-dom": "^5.13.0",
+  //   "@testing-library/react": "^11.2.7",
+  //   "@testing-library/user-event": "^12.8.3",
+  //   "react": "^17.0.2",
+  //   "react-dom": "^17.0.2",
+  //   "react-scripts": "4.0.3",
+  //   "web-vitals": "^1.1.2"
+  // },
